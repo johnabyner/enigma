@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(130, 130, 165);
+}
+
+.center{
+    text-align: center;
+}
+
+.warnWord{
+    background-color: red;
+
+    font-weight: bold;
+
+    display: inline-block;
+    padding: 10px 20px;
+
+    border-radius: 8px;
+    
+}
+
+.buttonContinue{
+    background-color: rgb(19, 175, 136);
+
+    width: 200px;
+    height: 70px;
+
+    border-radius: 20px;
+
+    font-weight: none;
+    font-size: 20 px;
+}
+
+.green{
+    background-color: rgb(8, 203, 8);
+}
+
+.yellow{
+    background-color: rgb(239, 239, 10);
+}
+
+.gray{
+    background-color: gray;
+}
+
+button{
+    width: 70px;
+    height: 70px;
+
+    font-size: 32px;
+    font-weight: bold;
+    
+    background-color: rgb(151, 146, 168);
+    border-radius: 10px;
+
+    margin-bottom: 5px;
+}
