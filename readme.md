@@ -51,6 +51,7 @@ assets/info/palavras.json → base de palavras
 ## Como rodar
 
 npm install  
+npm update
 node server.js  
 
 Depois abrir:
